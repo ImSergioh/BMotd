@@ -6,7 +6,7 @@
 
     <groupId>me.imsergioh.bmotd</groupId>
     <artifactId>BMotd</artifactId>
-    <version>PRIVATE</version>
+    <version>PUBLIC</version>
     <packaging>jar</packaging>
 
     <name>BMotd</name>
